@@ -1,7 +1,7 @@
 symext (LaTex Symbol Package)
 ===============================
 
-"symext" stands for "symbol-extention" package. It is an extension of the "common" math variable vocabulary. The goal is to provide mathematicians, physicists, computer scientists,  linguists and professionals of other areas the ability to write non-intrusive, yet non-repetitive symbols. 
+"symext" stands for "symbol-extention" package. It is an extension to the "common" math variable vocabulary. The goal is to provide mathematicians, physicists, computer scientists,  linguists and professionals of other areas the ability to write non-intrusive, yet non-repetitive symbols. 
 
 Motivation
 ============
